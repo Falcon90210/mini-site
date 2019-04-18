@@ -1,0 +1,117 @@
+body {
+  background-color: #4A4A5A;
+ margin:0;
+ padding:0;
+ font-family: 'Lobster', cursive;
+}
+
+header {
+ height:100vh;
+ width:100%;
+ background-image: url(img/corea.jpg);
+ background-size: auto;
+ position: padding;
+ }
+
+.mon-titre {
+  position: relative;
+  width: 100%;
+  top: 45vh;
+  margin: auto;
+  color: white;
+  text-transform: uppercase;
+  background-color: rgba(0,0,0,0.8);
+  text-align: center;
+
+}
+
+nav ul {
+   list-style: none;
+   float: right;
+}
+
+nav li {
+  display:inline;
+  padding-right: 25px;
+}
+
+nav {
+  position: fixed;
+  top:0;
+  width:100%;
+  height:60px;
+  background-color: #000000;
+  z-index: 99;
+}
+
+#logo {
+  height:50px;
+  position:relative;
+  padding:25px;
+  top:10px;
+
+section {
+  min-height: 100vh;
+}
+
+h2 {
+  text-align:center;
+  background-image: url(img/coree.jpg);
+}
+
+#section2 {
+
+text-align:center;
+background-color: #B6B6B6;
+}
+
+#section3 {
+
+  text-align:center;
+  background-color: #B6B6B6;
+;
+}
+
+#section4 {
+
+text-align:center;
+background-color: #B6B6B6;
+}
+
+#section5 {
+  background-color: #B6B6B6;
+  background-image: url("https://cdn150.picsart.com/upscale-271620491046211.png?r1024x1024.jpg");
+}
+
+#section6 {
+
+  text-align:center;
+  background-color: #B6B6B6;
+}
+
+header h1 {
+  text-align:center;
+  font-size: 35px;
+  color: white;
+  padding: 30px;
+}
+
+h2 {
+  background-color: #B6B6B6;
+  text-align: center;
+  padding-top: 50px;
+}
+
+/**************
+****footer*****
+**************/
+footer {
+ position:absolute;
+ margin-bottom: 0;
+ width:100%;
+ min-height: 150px;
+ background-color: black;
+}
+#reseaux-sociaux {
+  text-align:center;
+}
